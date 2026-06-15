@@ -1,0 +1,453 @@
+{
+  "defaultLocale": "uk",
+  "locales": {
+    "uk": {
+      "meta": {
+        "title": "Чистота Прикарпаття — Професійний клінінг в Івано-Франківську",
+        "description": "Преміальне прибирання квартир, будинків та офісів. Екологічні засоби, професійне обладнання Karcher."
+      },
+      "nav": {
+        "services": "Послуги",
+        "calculator": "Калькулятор",
+        "about": "Про нас",
+        "reviews": "Відгуки",
+        "contact": "Контакти"
+      },
+      "hero": {
+        "badge": "Клінінгова компанія №1 в Івано-Франківську",
+        "title": "Професійне прибирання в Івано-Франківську з матеріальною відповідальністю до 50 000 грн",
+        "subtitle": "Професійне прибирання після ремонту та генеральний клінінг з матеріальною відповідальністю до 50 000 грн. Використовуємо еко-засоби Kiehl та техніку Karcher.",
+        "ctaPrimary": "Розрахувати вартість",
+        "ctaSecondary": "Наші роботи",
+        "floatingCard": {
+          "title": "Гарантія якості",
+          "text": "Безкоштовне виправлення недоліків протягом 24 годин"
+        },
+        "imageUrl": "https://picsum.photos/seed/cleaning-hero-premium/1920/1080"
+      },
+      "socialProof": {
+        "stats": [
+          { "value": "500+", "label": "Задоволених клієнтів" },
+          { "value": "50k ₴", "label": "Матеріальна відповідальність" },
+          { "value": "100%", "label": "Еко-безпечні засоби" },
+          { "value": "24/7", "label": "Підтримка клієнтів" }
+        ]
+      },
+      "services": {
+        "badge": "Наші послуги",
+        "title": "Від підтримуючого прибирання до складних об'єктів після ремонту",
+        "subtitle": "Від підтримуючого прибирання до складної очистки після ремонту. Ми знаємо, як працювати з делікатними поверхнями.",
+        "items": [
+          {
+            "id": "post-construction",
+            "icon": "construction",
+            "title": "Прибирання після ремонту",
+            "description": "Спеціалізована технологія видалення цементного пилу та затирки без пошкодження матових поверхонь.",
+            "price": "від 80 грн/м²"
+          },
+          {
+            "id": "general",
+            "icon": "sparkle",
+            "title": "Генеральне прибирання",
+            "description": "Глибоке очищення всіх зон, включаючи важкодоступні місця, знежирення кухні та дезінфекція санвузлів.",
+            "price": "від 60 грн/м²"
+          },
+          {
+            "id": "dry-cleaning",
+            "icon": "sofa",
+            "title": "Хімчистка меблів",
+            "description": "Видалення плям, запахів та пилових кліщів з диванів, матраців та килимів професійними екстракторами.",
+            "price": "від 800 грн"
+          },
+          {
+            "id": "windows",
+            "icon": "window",
+            "title": "Миття вікон та фасадів",
+            "description": "Миття панорамних вікон, вітрин та лоджій з обох сторін без розводів.",
+            "price": "від 150 грн/шт"
+          },
+          {
+            "id": "eco",
+            "icon": "leaf",
+            "title": "Еко-прибирання парою",
+            "description": "Гіпоалергенне прибирання парогенератором без використання хімії. Ідеально для сімей з дітьми.",
+            "price": "від 70 грн/м²"
+          },
+          {
+            "id": "office",
+            "icon": "office",
+            "title": "Клінінг комерційних приміщень",
+            "description": "Регулярне та генеральне прибирання офісів, ресторанів, магазинів за договором.",
+            "price": "Індивідуально"
+          }
+        ],
+        "imageUrl": "https://picsum.photos/seed/cleaning-service-worker/800/1200"
+      },
+      "calculator": {
+        "badge": "Прозорі ціни",
+        "title": "Розрахуйте вартість прибирання",
+        "subtitle": "Отримайте точну ціну за 30 секунд. Фіксуємо вартість до початку робіт — жодних прихованих платежів.",
+        "areaLabel": "Площа приміщення (м²)",
+        "typeLabel": "Тип прибирання",
+        "extraLabel": "Додаткові послуги",
+        "totalLabel": "Орієнтовна вартість:",
+        "cta": "Замовити зі знижкою 10%"
+      },
+      "trust": {
+        "badge": "Чому ми",
+        "title": "Безпека та професіоналізм",
+        "items": [
+          {
+            "title": "Страхування майна",
+            "description": "Несемо матеріальну відповідальність до 50 000 грн за договором. Ваші дорогі поверхні в безпеці."
+          },
+          {
+            "title": "Преміальна хімія",
+            "description": "Використовуємо сертифіковані засоби Kiehl (Німеччина) та Chemspec (США), безпечні для немовлят."
+          },
+          {
+            "title": "Перевірений персонал",
+            "description": "Всі клінери проходять перевірку службою безпеки, навчання та працюють у брендованій уніформі."
+          },
+          {
+            "title": "Гарантія 24 години",
+            "description": "Якщо ви знайдете недоліки після нашого прибирання, ми безкоштовно їх виправимо протягом доби."
+          }
+        ]
+      },
+      "beforeAfter": {
+        "badge": "Результати",
+        "title": "Різниця, яку видно одразу",
+        "subtitle": "Реальні фото з наших об'єктів в ЖК Івано-Франківська.",
+        "beforeLabel": "До",
+        "afterLabel": "Після",
+        "items": [
+          {
+            "before": "https://picsum.photos/seed/dirty-kitchen-1/800/600",
+            "after": "https://picsum.photos/seed/clean-kitchen-1/800/600",
+            "title": "Кухня після ремонту"
+          },
+          {
+            "before": "https://picsum.photos/seed/dirty-bath-1/800/600",
+            "after": "https://picsum.photos/seed/clean-bath-1/800/600",
+            "title": "Дезінфекція санвузла"
+          }
+        ]
+      },
+      "process": {
+        "badge": "Як ми працюємо",
+        "title": "Простий шлях до чистоти",
+        "steps": [
+          { "title": "Заявка", "description": "Ви залишаєте заявку або телефонуєте нам. Ми узгоджуємо деталі та фіксуємо ціну." },
+          { "title": "Виїзд команди", "description": "Клінери приїжджають у визначений час з усім необхідним обладнанням та хімією." },
+          { "title": "Прибирання", "description": "Проводимо клінінг за суворим чек-листом. Ви можете бути присутніми або залишити ключі." },
+          { "title": "Прийом роботи", "description": "Ви перевіряєте результат. Оплата здійснюється тільки після вашого повного схвалення." }
+        ]
+      },
+      "gallery": {
+        "badge": "Портфоліо",
+        "title": "Наші останні роботи",
+        "items": [
+          { "url": "https://picsum.photos/seed/clean-room-1/800/800", "alt": "Прибирання вітальні" },
+          { "url": "https://picsum.photos/seed/clean-room-2/800/600", "alt": "Миття вікон" },
+          { "url": "https://picsum.photos/seed/clean-room-3/600/800", "alt": "Хімчистка дивану" },
+          { "url": "https://picsum.photos/seed/clean-room-4/800/800", "alt": "Прибирання кухні" },
+          { "url": "https://picsum.photos/seed/clean-room-5/800/600", "alt": "Чистий санвузол" },
+          { "url": "https://picsum.photos/seed/clean-room-6/600/800", "alt": "Прибирання офісу" }
+        ]
+      },
+      "video": {
+        "badge": "Відео",
+        "title": "Процес прибирання зсередини",
+        "posterUrl": "https://picsum.photos/seed/cleaning-video-poster/1200/600"
+      },
+      "testimonials": {
+        "badge": "Відгуки",
+        "title": "Що кажуть наші клієнти",
+        "items": [
+          {
+            "name": "Олена Коваленко",
+            "role": "Власниця квартири, ЖК Manhattan",
+            "text": "Замовляла прибирання після ремонту. Дуже переживала за чорну матову сантехніку, але дівчата впорались ідеально. Жодної подряпини, весь будівельний пил зник. Рекомендую!",
+            "rating": 5
+          },
+          {
+            "name": "Андрій Мельник",
+            "role": "ІТ-спеціаліст",
+            "text": "Працюю з дому, часу на прибирання нуль. Замовив генеральне прибирання + хімчистку дивану. Хлопці приїхали з купою техніки Karcher. Диван як новий, в квартирі пахне свіжістю, а не хлоркою.",
+            "rating": 5
+          },
+          {
+            "name": "Ірина Бойко",
+            "role": "Мама двох дітей",
+            "text": "Для мене було критично важливо використання еко-хімії через алергію у меншого сина. Компанія використовує безпечні засоби. Дуже задоволена результатом і підходом.",
+            "rating": 5
+          },
+          {
+            "name": "Максим Ткачук",
+            "role": "Орендодавець",
+            "text": "Співпрацюю з 'Чистота Прикарпаття' вже півроку для прибирання квартир між заїздами гостей. Завжди оперативно, чітко за графіком. Жодних нарікань від гостей на чистоту.",
+            "rating": 5
+          }
+        ]
+      },
+      "team": {
+        "badge": "Команда",
+        "title": "Професіонали своєї справи",
+        "items": [
+          { "name": "Марія", "role": "Старший клінер", "imageUrl": "https://picsum.photos/seed/cleaner-maria/400/500" },
+          { "name": "Оксана", "role": "Спеціаліст з хімчистки", "imageUrl": "https://picsum.photos/seed/cleaner-oksana/400/500" },
+          { "name": "Іван", "role": "Майстер по роботі з технікою", "imageUrl": "https://picsum.photos/seed/cleaner-ivan/400/500" }
+        ]
+      },
+      "faq": {
+        "badge": "FAQ",
+        "title": "Часті запитання",
+        "items": [
+          { "question": "Чи потрібно мені бути вдома під час прибирання?", "answer": "Ні, це не обов'язково. Ви можете зустріти клінерів, передати ключі та поїхати у своїх справах. Ми зателефонуємо вам за годину до завершення робіт." },
+          { "question": "Чи може змінитись ціна в процесі прибирання?", "answer": "Ні. Ми фіксуємо вартість до початку робіт на основі площі та обраних послуг. Ціна може змінитись лише якщо ви самі додасте нові послуги в процесі." },
+          { "question": "Які засоби ви використовуєте?", "answer": "Ми використовуємо професійну сертифіковану хімію Kiehl (Німеччина) та Chemspec (США). Вони гіпоалергенні, безпечні для дітей та домашніх тварин." },
+          { "question": "Що робити, якщо мені не сподобається результат?", "answer": "Ми надаємо гарантію 24 години. Якщо ви помітите якісь недоліки, просто повідомте нас, і ми безкоштовно приїдемо та все виправимо." },
+          { "question": "Як швидко ви можете приїхати?", "answer": "Зазвичай ми можемо організувати виїзд бригади на наступний день після заявки. У деяких випадках можливий виїзд день у день." },
+          { "question": "Чи прибираєте ви після ремонту?", "answer": "Так, це наша спеціалізація. Ми маємо спеціальні пилососи Karcher для будівельного пилу та засоби для безпечного видалення затирки та фарби." },
+          { "question": "Скільки часу займає генеральне прибирання?", "answer": "В середньому генеральне прибирання квартири площею 60 м² займає від 4 до 6 годин, працює бригада з 2-3 осіб." },
+          { "question": "Чи миєте ви вікна взимку?", "answer": "Миття вікон ззовні проводиться при температурі не нижче -5°C. Зсередини миємо в будь-яку пору року." },
+          { "question": "Як відбувається оплата?", "answer": "Оплата здійснюється після того, як ви приймете роботу. Можлива оплата готівкою або переказом на карту/рахунок ФОП." },
+          { "question": "Чи несете ви відповідальність за пошкодження майна?", "answer": "Так, ми маємо договір страхування відповідальності до 50 000 грн. Наші співробітники навчені працювати з делікатними поверхнями." }
+        ]
+      },
+      "ctaBanner": {
+        "title": "Готові насолоджуватись ідеальною чистотою?",
+        "subtitle": "Залиште заявку зараз та отримайте знижку 10% на перше замовлення.",
+        "button": "Отримати знижку"
+      },
+      "contact": {
+        "badge": "Контакти",
+        "title": "Зв'яжіться з нами",
+        "address": "м. Івано-Франківськ, Україна",
+        "phone": "+38 (099) 000-00-00",
+        "email": "ishop.inform@gmail.com",
+        "hours": "Пн-Нд: 08:00 - 20:00",
+        "form": {
+          "name": "Ваше ім'я",
+          "phone": "Номер телефону",
+          "service": "Оберіть послугу",
+          "submit": "Надіслати заявку",
+          "success": "Дякуємо! Ми зв'яжемось з вами найближчим часом."
+        }
+      },
+      "footer": {
+        "description": "Професійна клінінгова компанія в Івано-Франківську. Преміальна якість, еко-засоби, гарантія результату.",
+        "rights": "Всі права захищено."
+      }
+    },
+    "en": {
+      "meta": {
+        "title": "Chystota Prykarpattia — Professional Cleaning in Ivano-Frankivsk",
+        "description": "Premium cleaning of apartments, houses, and offices. Eco-friendly products, professional Karcher equipment."
+      },
+      "nav": {
+        "services": "Services",
+        "calculator": "Calculator",
+        "about": "About",
+        "reviews": "Reviews",
+        "contact": "Contact"
+      },
+      "hero": {
+        "badge": "#1 Cleaning Company in Ivano-Frankivsk",
+        "title": "Professional Cleaning in Ivano-Frankivsk with Liability up to 50,000 UAH",
+        "subtitle": "Professional post-construction and deep cleaning with material liability up to 50,000 UAH.",
+        "ctaPrimary": "Calculate Cost",
+        "ctaSecondary": "Our Work",
+        "floatingCard": {
+          "title": "Quality Guarantee",
+          "text": "Free correction of any issues within 24 hours"
+        },
+        "imageUrl": "https://picsum.photos/seed/cleaning-hero-premium/1920/1080"
+      },
+      "socialProof": {
+        "stats": [
+          { "value": "500+", "label": "Happy Clients" },
+          { "value": "50k ₴", "label": "Material Liability" },
+          { "value": "100%", "label": "Eco-friendly" },
+          { "value": "24/7", "label": "Support" }
+        ]
+      },
+      "services": {
+        "badge": "Our Services",
+        "title": "From Regular Maintenance to Complex Post-Construction Cleaning",
+        "subtitle": "From regular maintenance to complex post-construction cleaning.",
+        "items": [
+          {
+            "id": "post-construction",
+            "icon": "construction",
+            "title": "Post-Construction Cleaning",
+            "description": "Specialized technology for removing cement dust and grout safely.",
+            "price": "from 80 UAH/m²"
+          },
+          {
+            "id": "general",
+            "icon": "sparkle",
+            "title": "Deep Cleaning",
+            "description": "Deep cleaning of all areas, including hard-to-reach spots and sanitization.",
+            "price": "from 60 UAH/m²"
+          },
+          {
+            "id": "dry-cleaning",
+            "icon": "sofa",
+            "title": "Furniture Dry Cleaning",
+            "description": "Removal of stains, odors, and dust mites from sofas and mattresses.",
+            "price": "from 800 UAH"
+          },
+          {
+            "id": "windows",
+            "icon": "window",
+            "title": "Window Washing",
+            "description": "Streak-free washing of panoramic windows and balconies.",
+            "price": "from 150 UAH/pc"
+          },
+          {
+            "id": "eco",
+            "icon": "leaf",
+            "title": "Eco Steam Cleaning",
+            "description": "Hypoallergenic steam cleaning without chemicals. Ideal for kids.",
+            "price": "from 70 UAH/m²"
+          },
+          {
+            "id": "office",
+            "icon": "office",
+            "title": "Commercial Cleaning",
+            "description": "Regular and deep cleaning of offices and commercial spaces.",
+            "price": "Custom"
+          }
+        ],
+        "imageUrl": "https://picsum.photos/seed/cleaning-service-worker/800/1200"
+      },
+      "calculator": {
+        "badge": "Transparent Pricing",
+        "title": "Calculate Your Cleaning Cost",
+        "subtitle": "Get an exact price in 30 seconds. Fixed price before we start.",
+        "areaLabel": "Area (m²)",
+        "typeLabel": "Cleaning Type",
+        "extraLabel": "Extra Services",
+        "totalLabel": "Estimated Cost:",
+        "cta": "Order with 10% Discount"
+      },
+      "trust": {
+        "badge": "Why Us",
+        "title": "Safety and Professionalism",
+        "items": [
+          { "title": "Property Insurance", "description": "Material liability up to 50,000 UAH." },
+          { "title": "Premium Chemicals", "description": "Certified Kiehl and Chemspec products." },
+          { "title": "Vetted Staff", "description": "Security-checked cleaners in branded uniform." },
+          { "title": "24h Guarantee", "description": "Free fixes within 24 hours if needed." }
+        ]
+      },
+      "beforeAfter": {
+        "badge": "Results",
+        "title": "Visible Difference",
+        "subtitle": "Real photos from our projects.",
+        "beforeLabel": "Before",
+        "afterLabel": "After",
+        "items": [
+          {
+            "before": "https://picsum.photos/seed/dirty-kitchen-1/800/600",
+            "after": "https://picsum.photos/seed/clean-kitchen-1/800/600",
+            "title": "Post-construction Kitchen"
+          },
+          {
+            "before": "https://picsum.photos/seed/dirty-bath-1/800/600",
+            "after": "https://picsum.photos/seed/clean-bath-1/800/600",
+            "title": "Bathroom Sanitization"
+          }
+        ]
+      },
+      "process": {
+        "badge": "How It Works",
+        "title": "Simple Path to Cleanliness",
+        "steps": [
+          { "title": "Request", "description": "Leave a request or call us." },
+          { "title": "Arrival", "description": "Our team arrives with all equipment." },
+          { "title": "Cleaning", "description": "We clean according to a strict checklist." },
+          { "title": "Acceptance", "description": "You check the result and pay." }
+        ]
+      },
+      "gallery": {
+        "badge": "Portfolio",
+        "title": "Our Recent Work",
+        "items": [
+          { "url": "https://picsum.photos/seed/clean-room-1/800/800", "alt": "Living room cleaning" },
+          { "url": "https://picsum.photos/seed/clean-room-2/800/600", "alt": "Window washing" },
+          { "url": "https://picsum.photos/seed/clean-room-3/600/800", "alt": "Sofa cleaning" },
+          { "url": "https://picsum.photos/seed/clean-room-4/800/800", "alt": "Kitchen cleaning" },
+          { "url": "https://picsum.photos/seed/clean-room-5/800/600", "alt": "Clean bathroom" },
+          { "url": "https://picsum.photos/seed/clean-room-6/600/800", "alt": "Office cleaning" }
+        ]
+      },
+      "video": {
+        "badge": "Video",
+        "title": "Inside the Cleaning Process",
+        "posterUrl": "https://picsum.photos/seed/cleaning-video-poster/1200/600"
+      },
+      "testimonials": {
+        "badge": "Reviews",
+        "title": "What Our Clients Say",
+        "items": [
+          { "name": "Olena K.", "role": "Homeowner", "text": "Perfect post-construction cleaning. Highly recommend!", "rating": 5 },
+          { "name": "Andriy M.", "role": "IT Specialist", "text": "Fast, professional, and great sofa dry cleaning.", "rating": 5 },
+          { "name": "Iryna B.", "role": "Mother of two", "text": "Love their eco-friendly approach. Safe for kids.", "rating": 5 },
+          { "name": "Maksym T.", "role": "Landlord", "text": "Reliable partner for my rental apartments.", "rating": 5 }
+        ]
+      },
+      "team": {
+        "badge": "Team",
+        "title": "Our Professionals",
+        "items": [
+          { "name": "Maria", "role": "Senior Cleaner", "imageUrl": "https://picsum.photos/seed/cleaner-maria/400/500" },
+          { "name": "Oksana", "role": "Dry Cleaning Specialist", "imageUrl": "https://picsum.photos/seed/cleaner-oksana/400/500" },
+          { "name": "Ivan", "role": "Equipment Master", "imageUrl": "https://picsum.photos/seed/cleaner-ivan/400/500" }
+        ]
+      },
+      "faq": {
+        "badge": "FAQ",
+        "title": "Frequently Asked Questions",
+        "items": [
+          { "question": "Do I need to be home?", "answer": "No, you can leave the keys and go about your day." },
+          { "question": "Can the price change?", "answer": "No, we fix the price before starting." },
+          { "question": "What chemicals do you use?", "answer": "Certified Kiehl and Chemspec products." },
+          { "question": "What if I'm not satisfied?", "answer": "We offer a 24-hour free fix guarantee." },
+          { "question": "How fast can you arrive?", "answer": "Usually the next day, sometimes same-day." },
+          { "question": "Do you do post-construction?", "answer": "Yes, it's our specialty." },
+          { "question": "How long does deep cleaning take?", "answer": "Usually 4-6 hours for a 60m² apartment." },
+          { "question": "Do you wash windows in winter?", "answer": "Outside down to -5°C, inside anytime." },
+          { "question": "How do I pay?", "answer": "Cash or card transfer after you accept the work." },
+          { "question": "Are you insured?", "answer": "Yes, up to 50,000 UAH liability." }
+        ]
+      },
+      "ctaBanner": {
+        "title": "Ready for perfect cleanliness?",
+        "subtitle": "Leave a request now and get 10% off your first order.",
+        "button": "Get Discount"
+      },
+      "contact": {
+        "badge": "Contact",
+        "title": "Get in Touch",
+        "address": "Ivano-Frankivsk, Ukraine",
+        "phone": "+38 (099) 000-00-00",
+        "email": "ishop.inform@gmail.com",
+        "hours": "Mon-Sun: 08:00 - 20:00",
+        "form": {
+          "name": "Your Name",
+          "phone": "Phone Number",
+          "service": "Select Service",
+          "submit": "Send Request",
+          "success": "Thank you! We will contact you soon."
+        }
+      },
+      "footer": {
+        "description": "Professional cleaning company in Ivano-Frankivsk. Premium quality, eco-products, guaranteed results.",
+        "rights": "All rights reserved."
+      }
+    }
+  }
+}
