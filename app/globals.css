@@ -1,59 +1,51 @@
 @import "tailwindcss";
 
 @theme {
-  --font-display: 'Montserrat', sans-serif;
-  --font-body: 'Hanken Grotesk', sans-serif;
+  --color-background: hsl(0 0% 100%);
+  --color-surface: hsl(210 20% 98%);
+  --color-foreground: hsl(220 15% 15%);
+  --color-accent: hsl(190 30% 45%);
+  --color-accent-foreground: hsl(0 0% 100%);
+  --color-muted: hsl(220 10% 45%);
+  --color-border: hsl(220 20% 90%);
 
-  /* Clean, authoritative, premium palette */
-  --color-primary: hsl(215 40% 15%);     /* Deep Slate Blue */
-  --color-accent: hsl(185 80% 40%);      /* Fresh Teal */
-  --color-accent-hover: hsl(185 80% 35%);
-  --color-accent-light: hsl(185 80% 92%);
-  
-  --color-bg-light: hsl(0 0% 100%);      /* Pure White */
-  --color-bg-tint: hsl(215 20% 97%);     /* Very subtle cool gray tint */
-  
-  --color-text-main: hsl(215 30% 20%);
-  --color-text-muted: hsl(215 15% 45%);
+  --font-display: "Jost", sans-serif;
+  --font-body: "Rubik", sans-serif;
+
+  /* Spacing Scale Tokens */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 12px;
+  --spacing-lg: 24px;
+  --spacing-xl: 48px;
+  --spacing-2xl: 96px;
+  --spacing-3xl: 160px;
+
+  /* Radius Constraint: strictly 0px */
+  --radius-none: 0px;
+  --radius-sm: 0px;
+  --radius-md: 0px;
+  --radius-lg: 0px;
+  --radius-xl: 0px;
+  --radius-2xl: 0px;
+  --radius-3xl: 0px;
+  --radius-full: 0px;
 }
 
 body {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
   font-family: var(--font-body);
-  color: var(--color-text-main);
-  background-color: var(--color-bg-light);
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
+/* Base resets to enforce strict aesthetic */
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-display);
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
-}
-
-@keyframes pulse-soft {
-  0%, 100% { opacity: 1; transform: scale(1); }
-  50% { opacity: 0.8; transform: scale(1.05); }
-}
-
-.animate-pulse-soft {
-  animation: pulse-soft 3s ease-in-out infinite;
-}
-
-/* Accessibility & Motion */
-@media (prefers-reduced-motion: reduce) {
-  *, *::before, *::after {
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
-    scroll-behavior: auto !important;
-  }
-}
-
-*:focus-visible {
-  outline: 2px solid var(--color-accent);
-  outline-offset: 2px;
+::selection {
+  background-color: var(--color-accent);
+  color: var(--color-accent-foreground);
 }
